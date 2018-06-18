@@ -1,1 +1,8 @@
+# npm
 /node_modules
+
+# vim
+.*.swp
+
+# build
+/deploy-me.zip
